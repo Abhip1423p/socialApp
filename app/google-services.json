@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728080906528",
+    "project_id": "social-64315",
+    "storage_bucket": "social-64315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728080906528:android:a5af14f5522dda02c17f45",
+        "android_client_info": {
+          "package_name": "com.abhi.cloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728080906528-ga334kvn0llmflp58rkqb3msia5qrkta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmOF3R5EEpDxE_SekwLiOBlcnbIHi7N-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728080906528-ga334kvn0llmflp58rkqb3msia5qrkta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
